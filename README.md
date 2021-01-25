@@ -4,7 +4,7 @@
 [![Packagist](https://img.shields.io/packagist/dt/zgabievi/laravel-bog-console.svg)](https://packagist.org/packages/zgabievi/laravel-bog-console)
 [![license](https://img.shields.io/github/license/zgabievi/laravel-bog-console.svg)](https://packagist.org/packages/zgabievi/laravel-bog-console)
 
-<img src="https://raw.githubusercontent.com/zgabievi/laravel-bog-console/main/assets/bog-console.jpg" alt="Laravel BOG Console" />
+<img src="https://raw.githubusercontent.com/zgabievi/laravel-bog-console/main/assets/bog-console.png" alt="Laravel BOG Console" />
 
 ## Table of Contents
 
