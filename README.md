@@ -48,7 +48,7 @@ This command will copy config file for you.
 **Here are methods provided by this package:**
 
 - [Session](#session)
-    - [Session opening](#session-opening)]
+    - [Session opening](#session-opening)
     - [Session termination](#session-termination)
     - [Opening a session with a new password](#opening-a-session-with-a-new-password)
     - [Session extension](#session-extension)
